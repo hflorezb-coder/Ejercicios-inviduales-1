@@ -16,4 +16,5 @@ public class Calculos {
         double edmama = edjuan + edana + edalber;
         return edmama;
     }
+    
 }
