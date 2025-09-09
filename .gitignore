@@ -27,3 +27,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+src/exportar_java_a_word.py
+src/codigo_fuente_java.docx
